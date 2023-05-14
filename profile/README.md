@@ -1,8 +1,4 @@
-# 🖥️ Présentation 
-Bienvenue chez la team SI-SIG ! 
+### Pour [en savoir plus][1] à propos de la Team SI-SIG
+`cliquez-ici` ⬆
 
-
-# 🖥️ Dépôts de la team
-Le dépôt GitHub du [CEN Nouvelle-Aquitaine](https://github.com/CEN-Nouvelle-Aquitaine)
-
-
+  [1]: https://team-si-sig.github.io/documentation/
